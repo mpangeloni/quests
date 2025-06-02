@@ -1,17 +1,16 @@
-# quests
+# QUESTS
 
-This repository provides the source codes and outcomes presented in the PhD thesis entitled "xxxxx" presented on xx/xx/2025 in Université Polytechnique Hauts-de-France.
+This repository provides the source codes and outcomes presented in the paper _QUESTS: Quality in Use Evaluation of Smart environment Technologies by agent-based Simulations_.
 
 - the **abms** directory provides the agent-based model and simulation coded in NetLogo;
-- the **abms-observer** directory provides the abms observer, supposed to launch both the abms and the software application under evaluation (in this case, the **webpage**);
+- the **abms-observer** directory provides the abms observer, supposed to launch both the abms and the software application under evaluation (in this case, **ParkinsonCom**);
 - the **process-mining** directory provides the source code for the data mining technique that finds patterns between the motion sensors turning on and off (and for how long) and informing the abms;
-- the **auxiliary** directory 
+- the **auxiliary** directory provides Python scripts that auxiliate in the data extraction from the SQLite database;
 - the **interaction-log-data** directory provides the outcome from the interaction between the abms and the software application under evaluation;
 - the **simulation-log-data** directory provides the outcome from the simulation executed in the abms in NetLogo;
-- the **qinu-measures** directory provides the outcome of the measurements for the selected QinU characteristics;
-- the **webpage** directory provides the source code for the software application evaluated in the proof of concept.
+- the **qinu-measures** directory provides the outcome of the measurements for the selected QinU characteristics.
 
 ## How to execute the methodology
 - To initiate the process, launch the **abms-observer**;
-- This will then launch both the **abms** and the **webpage**;
+- This will then launch both the **abms** and the **ParkinsonCom**;
 - ...
