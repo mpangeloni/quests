@@ -1,6 +1,7 @@
 # QUESTS
 
 This repository provides the source codes and outcomes presented in the paper _QUESTS: Quality in Use Evaluation of Smart environment Technologies by agent-based Simulations_.
+As the apk file for ParkinsonCom is larger than 25MB, it is not possible to upload it to GitHub. It will be provided upon demand.
 
 - the **abms** directory provides the agent-based model and simulation coded in NetLogo;
 - the **abms-observer** directory provides the abms observer, supposed to launch both the abms and the software application under evaluation (in this case, **ParkinsonCom**);
