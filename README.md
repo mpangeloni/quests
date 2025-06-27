@@ -16,4 +16,4 @@ As the apk file for ParkinsonCom is larger than 25MB, it is not possible to uplo
 - To initiate the process, launch the **abms-observer**;
 - This will then launch both the **abms** and the **ParkinsonCom**;
 - Follow the coded sequence;
-- **ATTENTION:** for the recreation of the study, you need to adapt the script to open your emulator of choice (our experiment executed it in Nox) and the coordinates of your computer screen as provided by the AutoIt software.
+- **ATTENTION:** for the replication of this experiment, it is necessary to adapt the script to open your emulator of choice (this experiment executed the application on Nox) and the coordinates of your computer screen as provided by the AutoIt software.
